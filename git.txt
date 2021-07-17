@@ -1,0 +1,30 @@
+git add . 
+thêm tất cả các file thay đổi
+
+git commit -m 'tên nhãn'
+để thêm nhãn cho phần thay đổi( được trùng nhau)
+
+git push
+đẩy code lên mạng
+
+git pull 
+lấy code từ mạng về
+
+git checkout -b 'tên nhánh'
+tạo 1 nhánh mới
+
+git pull origin master
+để pull code khác nhánh
+
+git push origin + tên nhánh
+để push code lên nhánh khai báo
+
+sau khi chuyển nhánh luôn pull code từ nhánh master về
+
+git stash
+lưu thay đổi hiện tại về bộ nhớ
+
+tạo nhánh mới - pull code từ nhánh gốc - chỉnh sửa - pull code từ nhánh gốc - sửa config nếu có - add - commit - push code lên nhánh hiện tại - chuyển nhánh gốc- pull code từ nhánh đã sửa lên - push code lên
+
+****Chú ý*****
+git có commit với put lên được

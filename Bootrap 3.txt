@@ -1,0 +1,51 @@
+Container: căn lề hai bên
+Container-fluid: full màn hình
+
+CHIA CỘT MÀN HÌNH(chia màn thành 12 phần)
+.col- thiết bị nhỏ màn <576px
+.col-sm- thiết bị nhỏ màn >=576px
+.col-md- thiết bị trung bình màn >= 768
+.col-lg- thiết bị lớn màn >= 992
+.col-xl- thiết bị phóng to >= 1200
+
+BẢNG
+.table để thêm kiểu vào bảng
+.table-hover: bảng có hover
+.table-striped:bảng có hàng so le
+.table-bordered: có viền
+.table-dark: bảng nền dark
+
+ẢNH
+.rounded: thêm kiểu ảnh
+.rounded-circle: tạo ảnh tròn
+.img-thumbnail: thêm viền ảnh
+
+BUTTON
+.btn: thêm kiểu button
+.btn-(9 màu tương ứng)
+.btn-group: nhóm các button
+
+PHÂN TRANG
+.pagination: trong thẻ ul để tạo form
+.page-link: trong thẻ a để tạo viền cho link
+
+DROPDOWN
+.dropdown: để thêm kiểu dropdown
+.dropdown-menu: tạo dropdown menu
+.dropdown-item: nằm trong các đường link trog dropdown-menu
+
+TẠO MENU
+Menu đơn giản
+.nav: nằm ở phần tử ul
+.nav-item: nằm ở phần tử li
+.nav-link: ở phần tử liên kết trang a
+Menu trang
+.navbar-expand-sm: tạo menu ngang thuộc nav
+.navbar-nav: thuộc ul
+
+FORM
+.form-group: căn lề giữa các form nằm ở class form
+.form-control: xuống dòng giữa các thuộc tính
+
+TẠO SLIDESHOW
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_carousel
